@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jdmunger.com'
 languageCode = 'en-us'
 title = 'Relational'
-theme = "hugo-theme-zzo"
+theme = "zzo"
