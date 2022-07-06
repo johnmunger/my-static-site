@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>jdmunger</title>
+    <link>https://jdmunger.com/</link>
+    <description>Recent content on jdmunger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>am9obi5kLm11bmdlckBwcm90b25tYWlsLmNvbQo=(Base64 encoded) (John Munger)</managingEditor>
+    <webMaster>am9obi5kLm11bmdlckBwcm90b25tYWlsLmNvbQo=(Base64 encoded) (John Munger)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://jdmunger.com/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+
+    
+  </channel>
+</rss>
