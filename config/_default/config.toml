@@ -1,5 +1,5 @@
 baseURL = "https://jdmunger.com"
-title = "Hugo Zzo Theme"
+title = "jdmunger"
 theme = "zzo"
 
 defaultContentLanguage = "en"

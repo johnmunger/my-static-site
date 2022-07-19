@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - jdmunger
     subtitle:
-      - The world’s fastest framework for building websites
+      - software developer
     titleColor: 
     titleShadow: true
     titleFontSize: 44

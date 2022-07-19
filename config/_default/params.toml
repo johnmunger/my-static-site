@@ -1,4 +1,4 @@
-logoText = "Zzo"
+logoText = "home"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = []
@@ -60,14 +60,13 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
+myname = "John Munger"
+email = "am9obi5kLm11bmdlckBwcm90b25tYWlsLmNvbQo=(Base64 encoded)"
 whoami = "Web Developer"
-bioImageUrl = ""
+bioImageUrl = "https://media-exp2.licdn.com/dms/image/C5603AQEk5LMt93lZow/profile-displayphoto-shrink_800_800/0/1582570472937?e=1662595200&v=beta&t=hN2lLcHCthNoHaABtpVRznS-BHXczdt5pZEhLgeKKes"
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Diamondhead, MS"
+organization = "Sev1Tech/Esoteric LLC"
 
 # sidebar
 enableBio = true
@@ -161,11 +160,11 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = ""
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = ""
+  twitter = ""
+  github = ""
   stack-overflow = ""
   instagram = ""
   google-plus = ""

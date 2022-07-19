@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Presentations on jdmunger</title>
+    <link>https://jdmunger.com/presentation/</link>
+    <description>Recent content in Presentations on jdmunger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>am9obi5kLm11bmdlckBwcm90b25tYWlsLmNvbQo=(Base64 encoded) (John Munger)</managingEditor>
+    <webMaster>am9obi5kLm11bmdlckBwcm90b25tYWlsLmNvbQo=(Base64 encoded) (John Munger)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
+    
+        <atom:link href="https://jdmunger.com/presentation/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Fourth</title>
+        <link>https://jdmunger.com/presentation/dir/fourth/</link>
+        <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
+        <author>am9obi5kLm11bmdlckBwcm90b25tYWlsLmNvbQo=(Base64 encoded) (John Munger)</author>
+        <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
+        <guid>https://jdmunger.com/presentation/dir/fourth/</guid>
+        <description></description>
+        
+        <dc:creator>John Munger</dc:creator>
+        <media:content url="https://jdmunger.comimages/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
