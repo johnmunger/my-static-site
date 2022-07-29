@@ -39,10 +39,17 @@ Well, I'm going to post this unfinished. I plan to add recipes, from my various 
 
 To be continued.
 
+Continuing.  Hey What happened to that default setting I was talking about?  Do I not have it in me to be simple?  I do.  I default to #EasyAF when I don't want to think about cooking.
+
 ### Salad and Greens
+* [Lemon Garlic Kale Salad](https://cooking.nytimes.com/recipes/1015707-lemon-garlic-kale-salad)
 * [Wedge Salad](https://www.youtube.com/watch?v=YvUHEYQQGtU)
 * Braised Romaine
+* [Italian Broccoli Salad](https://cooking.nytimes.com/recipes/1023076-italian-broccoli-salad)
+* [Chopped Salad with Chickpeas](https://cooking.nytimes.com/recipes/1021454-chopped-salad-with-chickpeas-feta-and-avocado)
 
+### Sauces
+* 
 
 ### Chickpeas
 * [Falafel](https://www.youtube.com/watch?v=F9RczIcY_1c)
@@ -61,6 +68,7 @@ To be continued.
 * Red Thai Curry
 * Bibimbap Bowl
 * Dolmas
+* Sushi
 
 ### Bread
 * [Garlic Bread Pizza](https://www.youtube.com/watch?v=AMJsNIXBnt8)
@@ -98,6 +106,7 @@ To be continued.
 * Potato and Gochujang Braised Eggs
 * French Fries
 * Potato and Egg Omelet
+* Aloo Chutney
 
 ### Lentils
 * Amchur Chana
@@ -129,8 +138,13 @@ No synergy/Too Complicated to do on the fly
 * Smash Burger
 * Bibimbap Bowl
 * Avacado Toast
+* Fish Sandwich
 * Guacamole
 * Rice
 * Miso Soup
 * Cereal
 
+
+###### Posted 2022-07-22
+
+###### Updated
