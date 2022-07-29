@@ -2,7 +2,7 @@
 title: "Nonsense Dichotomies"
 date: 2022-07-22T12:24:36-05:00
 description:
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -45,7 +45,7 @@ Obviously, the non-sense part is important
 
 ## Getting Honked off
 
-We all love to spew explatives into the ether, but sometimes, its too much.  Saying, "Dude, fuck gravity" has so many connotations that are unintended. Especially if you YELL IT.  Fuck has all the trauma of everyone who has ever yelled at you prepackaged into it.  And that's my thing.  I LOVE TO YELL.  So I REALLY don't want people to take me seriously when I do it.  THEREFORE, you *gotta*, and I'm being serious when I say this, (leans in Men's Warehouse commercial style) you gotta come up with some non-sense swears to start throwing around.
+We all love to spew explatives into the ether, but sometimes, its too much.  Saying, "Dude, fuck gravity" has so many connotations that are unintended. Especially if you YELL IT.  *Fuck* has all the trauma of everyone who has ever yelled at you pre-packaged into it.  And that's my thing.  I LOVE TO YELL.  So I REALLY don't want people to take me seriously when I do it.  THEREFORE, you *gotta*, and I'm being serious when I say this, (leans in Men's Warehouse commercial style) you gotta come up with some non-sense swears to start throwing around.
 
 My non-sense mot du l'ete is Honk.  
 
@@ -56,9 +56,7 @@ Honk Examples
 "I haven't honked in 9 days."
 "Honk yeah, I'm gay, dude."
 "How in the honk?"
-And my personal favorite, good old fashioned cholocate ice cream...
-
-"HONK!" said in anger, rage, ecstasy, but mostly goof, and always fun.  Please don't cum and actually say "honk", that would be fucking gross.
+And my personal favorite, good old fashioned cholocate ice cream, "HONK!" said in anger, rage, ecstasy, but mostly goof, and always fun.  (Please don't cum and actually say "honk", that would be fucking gross. (JK do what you want :D ))
 
 Nothing means everything. Everything means nothing. Some things means some things, and nothing means your straight. 
 

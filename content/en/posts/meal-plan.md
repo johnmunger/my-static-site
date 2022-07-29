@@ -45,6 +45,8 @@ Continuing.  Hey What happened to that default setting I was talking about?  Do 
 * [Lemon Garlic Kale Salad](https://cooking.nytimes.com/recipes/1015707-lemon-garlic-kale-salad)
 * [Wedge Salad](https://www.youtube.com/watch?v=YvUHEYQQGtU)
 * Braised Romaine
+* [Italian Broccoli Salad](https://cooking.nytimes.com/recipes/1023076-italian-broccoli-salad)
+* [Chopped Salad with Chickpeas](https://cooking.nytimes.com/recipes/1021454-chopped-salad-with-chickpeas-feta-and-avocado)
 
 ### Sauces
 * 
