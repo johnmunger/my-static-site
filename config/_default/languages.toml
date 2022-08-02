@@ -4,3 +4,9 @@
   weight = 1
   languagedir = "ltr"
   contentdir = "content/en"
+
+[ja]
+  title = "ムンゲル"
+  languageName = "Japanese"
+  weight = 2
+  contentdir = "content/ja"
