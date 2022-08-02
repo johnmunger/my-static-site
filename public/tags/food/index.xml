@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>food on jdmunger</title>
+    <link>https://jdmunger.com/tags/food/</link>
+    <description>Recent content in food on jdmunger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>am9obi5kLm11bmdlckBwcm90b25tYWlsLmNvbQo=(Base64 encoded) (John Munger)</managingEditor>
+    <webMaster>am9obi5kLm11bmdlckBwcm90b25tYWlsLmNvbQo=(Base64 encoded) (John Munger)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 19 Jul 2022 15:42:23 -0500</lastBuildDate>
+    
+        <atom:link href="https://jdmunger.com/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Meal Plans</title>
+        <link>https://jdmunger.com/posts/meal-plan/</link>
+        <pubDate>Tue, 19 Jul 2022 15:42:23 -0500</pubDate>
+        <author>am9obi5kLm11bmdlckBwcm90b25tYWlsLmNvbQo=(Base64 encoded) (John Munger)</author>
+        <atom:modified>Tue, 19 Jul 2022 15:42:23 -0500</atom:modified>
+        <guid>https://jdmunger.com/posts/meal-plan/</guid>
+        <description>Meal Planning Rather than opining and getting grandiose, I&amp;rsquo;ll quickly explain my reasoning behind my meal planning, what i&amp;rsquo;m aiming for, and the items on the list.
+The inspiration is simple. I&amp;rsquo;ve been experimenting for the past couple of years in the vegan/vegetarian recipe space, and, at this point, I spend too much time improvising, and reacting. I want a more targetted, more intentionally nutritionally balanced meals, and a plan. Having a plan saves time and effort, and I need a more explicit default setting.</description>
+        
+        <dc:creator>John Munger</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>food</category>
+            
+          
+            
+              <category>order</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
