@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2022-08-01T21:00:52-05:00
+date: 1989-3-3T21:00:52-05:00
 description:
 draft: false
 hideToc: false
@@ -76,7 +76,7 @@ The point of this schedule is to make a schedule that's fun, not to optimize
 - golf
 - something else
 #### Afternoon
-- Criterion Channel
+- [Criterion Channel](https://apps.apple.com/us/app/the-criterion-channel/id1454275199)
 #### Evening
 - Free
 ---
