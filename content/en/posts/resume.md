@@ -21,9 +21,8 @@ image:
 #### Full Stack Engineer, Department Of Homeland Security: sev1tech 
 ###### *July 2021-PRESENT*
 **Tech: Typescript, React.js, Enzyme, Material UI, JPA, Spring boot, Spring Data, Java, Docker, Microservices, Jenkins, Kubernetes, PostGreSQL, Github, Bash, MacOS**
-
-- Performed dozens of Root Cause Analyses and bug-fixes across the stack in preparation for launch of NexGen system
 - Expanded and Implemented functionality across the application including hours tracking, activity tracking, customer feedback sets, and data auditing for 1000s of customers creating high fidelity and high accuracy management tools
+- Performed dozens of root cause analyses and bug-fixes across the stack in preparation for launch of NexGen system
 #### Javascript Developer, Nasa Shared Services Center: Geocent 
 ###### *October 2018- July 2021*
 **Tech: Javascript, ServiceNow Scripting language, Python, AngularJS, JQuery, Jelly**
