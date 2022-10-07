@@ -1,8 +1,8 @@
 ---
-title: "Depth_psychology"
-date: 2022-08-02T10:58:56-05:00
+title: "OfficeWindow"
+date: 2022-10-06T08:22:56-05:00
 description:
-draft: true
+draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -17,4 +17,3 @@ categories:
 -
 image:
 ---
-
