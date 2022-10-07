@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "ムンガー、ジョン, ソフトウエル工学"
+description = "ムンガー、ジョン, ソフトウェア工学"
 type = "about"
 date = "2022年十月二日"
 +++
