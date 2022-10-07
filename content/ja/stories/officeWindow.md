@@ -1,8 +1,8 @@
 ---
-title: "OfficeWindow"
+title: "Office Window"
 date: 2022-10-06T08:22:56-05:00
 description:
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -17,3 +17,4 @@ categories:
 -
 image:
 ---
+
