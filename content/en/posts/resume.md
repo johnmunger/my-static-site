@@ -2,7 +2,7 @@
 title: "Resumé"
 date: 2022-10-05T08:44:17-05:00
 description:
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: false
