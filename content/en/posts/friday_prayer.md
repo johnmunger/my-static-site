@@ -2,7 +2,7 @@
 title: "Friday Prayer"
 date: 2022-07-29T08:06:25-05:00
 description:
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: false
